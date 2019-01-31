@@ -3,4 +3,4 @@
 
 [External Site](https://threatmap.checkpoint.com/ThreatPortal/livemap.html)
 
-[NOREADME](../NOREADME.md)
+[NOREADME](/NOREADME.md)
