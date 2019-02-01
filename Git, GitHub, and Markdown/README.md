@@ -1,6 +1,6 @@
 ## IT2600
-#### IT2600 Repo
+#### ~~IT2040~~ IT2600 Repo
+---
+_[External Site](https://threatmap.checkpoint.com/ThreatPortal/livemap.html)_
 
-[External Site](https://threatmap.checkpoint.com/ThreatPortal/livemap.html)
-
-[NOREADME](NOREADME.md)
+__[NOREADME](NOREADME.md)__
