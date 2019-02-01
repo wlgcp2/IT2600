@@ -1,4 +1,4 @@
 
-![alt text](jeff.jpg "JEFF")
+![jeffPicture](jeff.jpg "JEFF")
 
 [README](README.md)
